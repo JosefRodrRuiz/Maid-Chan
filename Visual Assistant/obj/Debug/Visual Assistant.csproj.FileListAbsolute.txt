@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Visual Assistant\Visual Assistant\obj\Debug\Visual Assistant.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Visual Assistant\Visual Assistant\obj\Debug\Voice_Assistant.Form1.resources
+C:\Users\PC\Desktop\Visual Assistant\Visual Assistant\obj\Debug\Visual_Assistant.Properties.Resources.resources
+C:\Users\PC\Desktop\Visual Assistant\Visual Assistant\obj\Debug\Visual Assistant.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Visual Assistant\Visual Assistant\obj\Debug\Visual Assistant.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Visual Assistant\Visual Assistant\bin\Debug\Visual Assistant.exe.config
+C:\Users\PC\Desktop\Visual Assistant\Visual Assistant\bin\Debug\Visual Assistant.exe
+C:\Users\PC\Desktop\Visual Assistant\Visual Assistant\bin\Debug\Visual Assistant.pdb
+C:\Users\PC\Desktop\Visual Assistant\Visual Assistant\obj\Debug\Visual Assistant.exe
+C:\Users\PC\Desktop\Visual Assistant\Visual Assistant\obj\Debug\Visual Assistant.pdb

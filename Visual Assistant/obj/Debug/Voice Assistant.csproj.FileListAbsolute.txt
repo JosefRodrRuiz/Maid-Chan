@@ -1,0 +1,5 @@
+/home/josef/Desktop/Voice Assistant/Visual Assistant/obj/Debug/Voice Assistant.csprojAssemblyReference.cache
+/home/josef/Desktop/Voice Assistant/Visual Assistant/obj/Debug/Voice_Assistant.Form1.resources
+/home/josef/Desktop/Voice Assistant/Visual Assistant/obj/Debug/Voice_Assistant.Properties.Resources.resources
+/home/josef/Desktop/Voice Assistant/Visual Assistant/obj/Debug/Voice Assistant.csproj.GenerateResource.cache
+/home/josef/Desktop/Voice Assistant/Visual Assistant/obj/Debug/Voice Assistant.csproj.CoreCompileInputs.cache
