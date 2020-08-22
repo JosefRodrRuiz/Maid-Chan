@@ -34,7 +34,7 @@ namespace Voice_Assistant
 
 
             //list.Add(new string[] { "" });
-            list.Add(File.ReadAllLines(@"C:\cmds.txt"));
+            list.Add(File.ReadAllLines(@"C:\cmds.txt")); //CHANGE FILE LOCATION TO THE SAME IN YOUR SYSTEM
 
             Grammar gr = new Grammar(new GrammarBuilder(list));
 
@@ -124,7 +124,7 @@ namespace Voice_Assistant
 
             if (search)
             {
-                Process.Start("https://www.google.com/search?client=firefox-b-d&q=" + r);
+                Process.Start("https://duckduckgo.com" + r);
 
                 search = false;
             }
@@ -154,23 +154,15 @@ namespace Voice_Assistant
 
 
 
+                //HERE ARE SOME EXAMPLES
 
                 if (r == "open spotify")
                 {
                     Process.Start(@"C:\Users\PC\AppData\Roaming\Spotify\Spotify.exe");
                 }
-                if (r == "open google")
+                if (r == "open duckduckgo")
                 {
-                    Process.Start("www.google.com");
-                }
-
-                if (r == "open discord")
-                {
-                    Process.Start(@"C:\Users\PC\AppData\Local\Discord\Update.exe");
-                }
-                if (r == "how love works")
-                {
-                    Process.Start("https://www.livescience.com/43395-ways-love-affects-the-brain.html");
+                    Process.Start("https://duckduckgo.com");
                 }
                 if (r == "time")
                 {
